@@ -9,13 +9,8 @@
 }
 
 body {
-  background: linear-gradient(
-    11deg,
-    #6f4eca 0%,
-    #f7f7f7 30%,
-    #f7f7f7 70%,
-    #6f4eca 99%
-  );
+  background-image: url(../src/assets/cool-background.png);
+  background-size: cover;
   display: flex;
   flex-direction: column;
   align-items: center;
