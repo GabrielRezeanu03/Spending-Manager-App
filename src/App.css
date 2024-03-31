@@ -9,7 +9,7 @@
 }
 
 body {
-  background-image: url(../src/assets/cool-background.png);
+  background-image: url(../src/assets/abstract-background.png);
   background-size: cover;
   display: flex;
   flex-direction: column;
