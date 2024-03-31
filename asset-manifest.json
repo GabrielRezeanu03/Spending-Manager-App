@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Spending-Manager-App/static/css/main.87851a36.css",
+    "main.js": "/Spending-Manager-App/static/js/main.207e08e2.js",
+    "static/js/592.955a4589.chunk.js": "/Spending-Manager-App/static/js/592.955a4589.chunk.js",
+    "index.html": "/Spending-Manager-App/index.html",
+    "main.87851a36.css.map": "/Spending-Manager-App/static/css/main.87851a36.css.map",
+    "main.207e08e2.js.map": "/Spending-Manager-App/static/js/main.207e08e2.js.map",
+    "592.955a4589.chunk.js.map": "/Spending-Manager-App/static/js/592.955a4589.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.87851a36.css",
+    "static/js/main.207e08e2.js"
+  ]
+}
